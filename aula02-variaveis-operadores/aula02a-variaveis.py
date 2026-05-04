@@ -12,7 +12,6 @@ anoNas = input("Digite o ano do seu nascimento ")
 
 
 print("Você nasceu no dia ", diaNas, " do mês ", mesNas, " do ano ", anoNas)
-
 #Atividade 3
 
 num1 = int(input("Digite um número "))
